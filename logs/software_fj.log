@@ -1,0 +1,75 @@
+2026-11-23 11:41:04,610 - INFO - El sistema Software FJ se ha iniciado correctamente
+2026-11-23 12:57:04,191 - INFO - Cliente registrado correctamente
+2026-11-23 12:57:04,191 - INFO - Servicio registrado correctamente
+2026-11-23 12:57:04,193 - INFO - Reserva registrada correctamente
+2026-11-23 12:57:04,194 - INFO - Reserva registrada correctamente
+2026-11-23 12:57:04,196 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 12:57:04,197 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 12:57:04,199 - WARNING - Intento de registrar una reserva duplicada
+2026-11-23 12:57:04,199 - INFO - El sistema Software FJ se ha iniciado correctamente
+2026-11-23 13:07:05,214 - INFO - Cliente registrado correctamente
+2026-11-23 13:07:05,215 - INFO - Servicio registrado correctamente
+2026-11-23 13:07:05,216 - INFO - Reserva registrada correctamente
+2026-11-23 13:07:05,216 - INFO - Reserva registrada correctamente
+2026-11-23 13:07:05,216 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:11:31,365 - INFO - Cliente registrado correctamente
+2026-11-23 13:11:31,366 - INFO - Servicio registrado correctamente
+2026-11-23 13:11:31,366 - INFO - Reserva registrada correctamente
+2026-11-23 13:11:31,366 - INFO - Reserva registrada correctamente
+2026-11-23 13:11:31,367 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:11:31,367 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 13:15:09,207 - INFO - Cliente registrado correctamente
+2026-11-23 13:15:09,208 - INFO - Servicio registrado correctamente
+2026-11-23 13:15:09,209 - INFO - Reserva registrada correctamente
+2026-11-23 13:15:09,209 - INFO - Reserva registrada correctamente
+2026-11-23 13:15:09,210 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:15:09,211 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 13:15:09,211 - WARNING - Intento de registrar una reserva duplicada
+2026-11-23 13:17:22,941 - INFO - Cliente registrado correctamente
+2026-11-23 13:17:22,942 - INFO - Servicio registrado correctamente
+2026-11-23 13:17:22,942 - INFO - Reserva registrada correctamente
+2026-11-23 13:17:22,942 - INFO - Reserva registrada correctamente
+2026-11-23 13:17:22,943 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:17:22,943 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 13:17:22,944 - WARNING - Intento de registrar una reserva duplicada
+2026-11-23 13:17:22,944 - INFO - El sistema Software FJ se ha iniciado correctamente
+2026-11-23 13:18:37,817 - INFO - Cliente registrado correctamente
+2026-11-23 13:18:37,818 - INFO - Servicio registrado correctamente
+2026-11-23 13:18:37,819 - INFO - Reserva registrada correctamente
+2026-11-23 13:18:37,819 - INFO - Reserva registrada correctamente
+2026-11-23 13:18:37,820 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:18:37,821 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 13:18:37,821 - WARNING - Intento de registrar una reserva duplicada
+2026-11-23 13:18:37,821 - INFO - El sistema Software FJ se ha iniciado correctamente
+2026-11-23 13:23:06,019 - INFO - Cliente registrado correctamente
+2026-11-23 13:23:06,019 - INFO - Servicio registrado correctamente
+2026-11-23 13:23:06,020 - INFO - Reserva registrada correctamente
+2026-11-23 13:23:06,021 - INFO - Reserva registrada correctamente
+2026-11-23 13:23:06,022 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:23:06,022 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 13:23:06,023 - WARNING - Intento de registrar una reserva duplicada
+2026-11-23 13:23:06,023 - INFO - El sistema Software FJ se ha iniciado correctamente
+2026-11-23 13:24:58,130 - INFO - Cliente registrado correctamente
+2026-11-23 13:24:58,131 - INFO - Servicio registrado correctamente
+2026-11-23 13:24:58,132 - INFO - Reserva registrada correctamente
+2026-11-23 13:24:58,132 - INFO - Reserva registrada correctamente
+2026-11-23 13:24:58,133 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:24:58,134 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 13:24:58,134 - WARNING - Intento de registrar una reserva duplicada
+2026-11-23 13:24:58,134 - INFO - El sistema Software FJ se ha iniciado correctamente
+2026-11-23 13:39:38,220 - INFO - Cliente registrado correctamente
+2026-11-23 13:39:38,222 - INFO - Servicio registrado correctamente
+2026-11-23 13:39:38,222 - INFO - Reserva registrada correctamente
+2026-11-23 13:39:38,223 - INFO - Reserva registrada correctamente
+2026-11-23 13:39:38,224 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:39:38,225 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 13:39:38,227 - WARNING - Intento de registrar una reserva duplicada
+2026-11-23 13:39:38,228 - INFO - El sistema Software FJ se ha iniciado correctamente
+2026-11-23 13:41:29,098 - INFO - Cliente registrado correctamente
+2026-11-23 13:41:29,102 - INFO - Servicio registrado correctamente
+2026-11-23 13:41:29,106 - INFO - Reserva registrada correctamente
+2026-11-23 13:41:29,106 - INFO - Reserva registrada correctamente
+2026-11-23 13:41:29,108 - WARNING - Intento de registrar un cliente duplicado
+2026-11-23 13:41:29,110 - WARNING - Intento de registrar un servicio duplicado
+2026-11-23 13:41:29,111 - WARNING - Intento de registrar una reserva duplicada
+2026-11-23 13:41:29,112 - INFO - El sistema Software FJ se ha iniciado correctamente
